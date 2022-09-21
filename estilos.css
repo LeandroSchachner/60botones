@@ -1,0 +1,1202 @@
+.navbar-brand {
+  font-family: "Antonio", sans-serif;
+  font-size: 1.5rem;
+}
+.nav-item {
+  font-family: "Antonio", sans-serif;
+  font-size: 1.2rem;
+}
+
+/* BOTONES SIMPLES */
+h1, h2, p {
+  font-family: 'Fugaz One', cursive;
+  
+}
+.title {
+  font-size: 5rem;
+  font-family: 'Fugaz One', cursive;
+}
+
+textarea {
+  border-style: none;
+}
+
+.hidden {
+  display: none;
+  padding: 20px;
+}
+
+.simpleButtonBlue {
+  min-width: 130px;
+  height: 40px;
+  color: #fff;
+  padding: 5px 10px;
+  font-weight: bold;
+  cursor: pointer;
+  transition: all 0.3s ease;
+  position: relative;
+  display: inline-block;
+  outline: none;
+  border: none;
+  background: #0096ff;
+}
+.simpleButtonBlue:hover {
+  filter: opacity(0.5);
+}
+
+.simpleButtonRed {
+  min-width: 130px;
+  height: 40px;
+  color: #fff;
+  padding: 5px 10px;
+  font-weight: bold;
+  cursor: pointer;
+  transition: all 0.3s ease;
+  position: relative;
+  display: inline-block;
+  outline: none;
+  border: none;
+  background: #ff1e00;
+}
+.simpleButtonRed:hover {
+  filter: opacity(0.5);
+}
+.simpleButtonGreen {
+  min-width: 130px;
+  height: 40px;
+  color: #fff;
+  padding: 5px 10px;
+  font-weight: bold;
+  cursor: pointer;
+  transition: all 0.3s ease;
+  position: relative;
+  display: inline-block;
+  outline: none;
+  border: none;
+  background: #3ccf4e;
+}
+.simpleButtonGreen:hover {
+  filter: opacity(0.5);
+}
+.simpleButtonYellow {
+  min-width: 130px;
+  height: 40px;
+  color: #fff;
+  padding: 5px 10px;
+  font-weight: bold;
+  cursor: pointer;
+  transition: all 0.3s ease;
+  position: relative;
+  display: inline-block;
+  outline: none;
+  border: none;
+  background: #f2df3a;
+}
+.simpleButtonYellow:hover {
+  filter: opacity(0.5);
+}
+.simpleButtonBrown {
+  min-width: 130px;
+  height: 40px;
+  color: #fff;
+  padding: 5px 10px;
+  font-weight: bold;
+  cursor: pointer;
+  transition: all 0.3s ease;
+  position: relative;
+  display: inline-block;
+  outline: none;
+
+  border: none;
+  background: #61481c;
+}
+.simpleButtonBrown:hover {
+  filter: opacity(0.5);
+}
+.simpleButtonPurple {
+  min-width: 130px;
+  height: 40px;
+  color: #fff;
+  padding: 5px 10px;
+  font-weight: bold;
+  cursor: pointer;
+  transition: all 0.3s ease;
+  position: relative;
+  display: inline-block;
+  outline: none;
+
+  border: none;
+  background: #7f5283;
+}
+.simpleButtonPurple:hover {
+  filter: opacity(0.5);
+}
+.simpleButtonPink {
+  min-width: 130px;
+  height: 40px;
+  color: #fff;
+  padding: 5px 10px;
+  font-weight: bold;
+  cursor: pointer;
+  transition: all 0.3s ease;
+  position: relative;
+  display: inline-block;
+  outline: none;
+
+  border: none;
+  background: #ff8fb1;
+}
+.simpleButtonPink:hover {
+  filter: opacity(0.5);
+}
+.simpleButtonLightBlue {
+  min-width: 130px;
+  height: 40px;
+  color: #fff;
+  padding: 5px 10px;
+  font-weight: bold;
+  cursor: pointer;
+  transition: all 0.3s ease;
+  position: relative;
+  display: inline-block;
+  outline: none;
+
+  border: none;
+  background: #31e1f7;
+}
+.simpleButtonLightBlue:hover {
+  filter: opacity(0.5);
+}
+.simpleButtonBlack {
+  min-width: 130px;
+  height: 40px;
+  color: #fff;
+  padding: 5px 10px;
+  font-weight: bold;
+  cursor: pointer;
+  transition: all 0.3s ease;
+  position: relative;
+  display: inline-block;
+  outline: none;
+
+  border: none;
+  background: #100f0f;
+}
+.simpleButtonBlack:hover {
+  filter: opacity(0.5);
+}
+.simpleButtonGray {
+  min-width: 130px;
+  height: 40px;
+  color: #fff;
+  padding: 5px 10px;
+  font-weight: bold;
+  cursor: pointer;
+  transition: all 0.3s ease;
+  position: relative;
+  display: inline-block;
+  outline: none;
+
+  border: none;
+  background: #354259;
+}
+.simpleButtonGray:hover {
+  filter: opacity(0.5);
+}
+.simpleButtonOrange {
+  min-width: 130px;
+  height: 40px;
+  color: #fff;
+  padding: 5px 10px;
+  font-weight: bold;
+  cursor: pointer;
+  transition: all 0.3s ease;
+  position: relative;
+  display: inline-block;
+  outline: none;
+
+  border: none;
+  background: #d68438;
+}
+.simpleButtonOrange:hover {
+  filter: opacity(0.5);
+}
+.simpleButtonAqua {
+  min-width: 130px;
+  height: 40px;
+  color: #fff;
+  padding: 5px 10px;
+  font-weight: bold;
+  cursor: pointer;
+  transition: all 0.3s ease;
+  position: relative;
+  display: inline-block;
+  outline: none;
+
+  border: none;
+  background: #79f8bb;
+}
+.simpleButtonAqua:hover {
+  filter: opacity(0.5);
+}
+
+/* SEMI ROUNDED */
+
+.simpleButtonBlueSemi {
+  min-width: 130px;
+  height: 40px;
+  color: #fff;
+  padding: 5px 10px;
+  font-weight: bold;
+  cursor: pointer;
+  transition: all 0.3s ease;
+  position: relative;
+  display: inline-block;
+  outline: none;
+  border-radius: 5px;
+  border: none;
+  background: #0096ff;
+}
+.simpleButtonBlueSemi:hover {
+  filter: opacity(0.5);
+}
+.simpleButtonRedSemi {
+  min-width: 130px;
+  height: 40px;
+  color: #fff;
+  padding: 5px 10px;
+  font-weight: bold;
+  cursor: pointer;
+  transition: all 0.3s ease;
+  position: relative;
+  display: inline-block;
+  outline: none;
+  border-radius: 5px;
+  border: none;
+  background: #ff1e00;
+}
+.simpleButtonRedSemi:hover {
+  filter: opacity(0.5);
+}
+.simpleButtonGreenSemi {
+  min-width: 130px;
+  height: 40px;
+  color: #fff;
+  padding: 5px 10px;
+  font-weight: bold;
+  cursor: pointer;
+  transition: all 0.3s ease;
+  position: relative;
+  display: inline-block;
+  outline: none;
+  border-radius: 5px;
+  border: none;
+  background: #3ccf4e;
+}
+.simpleButtonGreenSemi:hover {
+  filter: opacity(0.5);
+}
+.simpleButtonYellowSemi {
+  min-width: 130px;
+  height: 40px;
+  color: #fff;
+  padding: 5px 10px;
+  font-weight: bold;
+  cursor: pointer;
+  transition: all 0.3s ease;
+  position: relative;
+  display: inline-block;
+  outline: none;
+  border-radius: 5px;
+  border: none;
+  background: #f2df3a;
+}
+.simpleButtonYellowSemi:hover {
+  filter: opacity(0.5);
+}
+.simpleButtonBrownSemi {
+  min-width: 130px;
+  height: 40px;
+  color: #fff;
+  padding: 5px 10px;
+  font-weight: bold;
+  cursor: pointer;
+  transition: all 0.3s ease;
+  position: relative;
+  display: inline-block;
+  outline: none;
+  border-radius: 5px;
+  border: none;
+  background: #61481c;
+}
+.simpleButtonBrownSemi:hover {
+  filter: opacity(0.5);
+}
+.simpleButtonPurpleSemi {
+  min-width: 130px;
+  height: 40px;
+  color: #fff;
+  padding: 5px 10px;
+  font-weight: bold;
+  cursor: pointer;
+  transition: all 0.3s ease;
+  position: relative;
+  display: inline-block;
+  outline: none;
+  border-radius: 5px;
+  border: none;
+  background: #7f5283;
+}
+.simpleButtonPurpleSemi:hover {
+  filter: opacity(0.5);
+}
+.simpleButtonPinkSemi {
+  min-width: 130px;
+  height: 40px;
+  color: #fff;
+  padding: 5px 10px;
+  font-weight: bold;
+  cursor: pointer;
+  transition: all 0.3s ease;
+  position: relative;
+  display: inline-block;
+  outline: none;
+  border-radius: 5px;
+  border: none;
+  background: #ff8fb1;
+}
+.simpleButtonPinkSemi:hover {
+  filter: opacity(0.5);
+}
+.simpleButtonLightBlueSemi {
+  min-width: 130px;
+  height: 40px;
+  color: #fff;
+  padding: 5px 10px;
+  font-weight: bold;
+  cursor: pointer;
+  transition: all 0.3s ease;
+  position: relative;
+  display: inline-block;
+  outline: none;
+  border-radius: 5px;
+  border: none;
+  background: #31e1f7;
+}
+.simpleButtonLightBlueSemi:hover {
+  filter: opacity(0.5);
+}
+.simpleButtonBlackSemi {
+  min-width: 130px;
+  height: 40px;
+  color: #fff;
+  padding: 5px 10px;
+  font-weight: bold;
+  cursor: pointer;
+  transition: all 0.3s ease;
+  position: relative;
+  display: inline-block;
+  outline: none;
+  border-radius: 5px;
+  border: none;
+  background: #100f0f;
+}
+.simpleButtonBlackSemi:hover {
+  filter: opacity(0.5);
+}
+.simpleButtonGraySemi {
+  min-width: 130px;
+  height: 40px;
+  color: #fff;
+  padding: 5px 10px;
+  font-weight: bold;
+  cursor: pointer;
+  transition: all 0.3s ease;
+  position: relative;
+  display: inline-block;
+  outline: none;
+  border-radius: 5px;
+  border: none;
+  background: #354259;
+}
+.simpleButtonGraySemi:hover {
+  filter: opacity(0.5);
+}
+.simpleButtonOrangeSemi {
+  min-width: 130px;
+  height: 40px;
+  color: #fff;
+  padding: 5px 10px;
+  font-weight: bold;
+  cursor: pointer;
+  transition: all 0.3s ease;
+  position: relative;
+  display: inline-block;
+  outline: none;
+  border-radius: 5px;
+  border: none;
+  background: #d68438;
+}
+.simpleButtonOrangeSemi:hover {
+  filter: opacity(0.5);
+}
+.simpleButtonAquaSemi {
+  min-width: 130px;
+  height: 40px;
+  color: #fff;
+  padding: 5px 10px;
+  font-weight: bold;
+  cursor: pointer;
+  transition: all 0.3s ease;
+  position: relative;
+  display: inline-block;
+  outline: none;
+  border-radius: 5px;
+  border: none;
+  background: #79f8bb;
+}
+.simpleButtonAquaSemi:hover {
+  filter: opacity(0.5);
+}
+
+/* FULL ROUNDED */
+
+.simpleButtonBlueFull {
+  min-width: 130px;
+  height: 40px;
+  color: #fff;
+  padding: 5px 10px;
+  font-weight: bold;
+  cursor: pointer;
+  transition: all 0.3s ease;
+  position: relative;
+  display: inline-block;
+  outline: none;
+  border-radius: 50px;
+  border: none;
+  background: #0096ff;
+}
+.simpleButtonBlueFull:hover {
+  filter: opacity(0.5);
+}
+.simpleButtonRedFull {
+  min-width: 130px;
+  height: 40px;
+  color: #fff;
+  padding: 5px 10px;
+  font-weight: bold;
+  cursor: pointer;
+  transition: all 0.3s ease;
+  position: relative;
+  display: inline-block;
+  outline: none;
+  border-radius: 50px;
+  border: none;
+  background: #ff1e00;
+}
+.simpleButtonRedFull:hover {
+  filter: opacity(0.5);
+}
+.simpleButtonGreenFull {
+  min-width: 130px;
+  height: 40px;
+  color: #fff;
+  padding: 5px 10px;
+  font-weight: bold;
+  cursor: pointer;
+  transition: all 0.3s ease;
+  position: relative;
+  display: inline-block;
+  outline: none;
+  border-radius: 50px;
+  border: none;
+  background: #3ccf4e;
+}
+.simpleButtonGreenFull:hover {
+  filter: opacity(0.5);
+}
+.simpleButtonYellowFull {
+  min-width: 130px;
+  height: 40px;
+  color: #fff;
+  padding: 5px 10px;
+  font-weight: bold;
+  cursor: pointer;
+  transition: all 0.3s ease;
+  position: relative;
+  display: inline-block;
+  outline: none;
+  border-radius: 50px;
+  border: none;
+  background: #f2df3a;
+}
+.simpleButtonYellowFull:hover {
+  filter: opacity(0.5);
+}
+.simpleButtonBrownFull {
+  min-width: 130px;
+  height: 40px;
+  color: #fff;
+  padding: 5px 10px;
+  font-weight: bold;
+  cursor: pointer;
+  transition: all 0.3s ease;
+  position: relative;
+  display: inline-block;
+  outline: none;
+  border-radius: 50px;
+  border: none;
+  background: #61481c;
+}
+.simpleButtonBrownFull:hover {
+  filter: opacity(0.5);
+}
+.simpleButtonPurpleFull {
+  min-width: 130px;
+  height: 40px;
+  color: #fff;
+  padding: 5px 10px;
+  font-weight: bold;
+  cursor: pointer;
+  transition: all 0.3s ease;
+  position: relative;
+  display: inline-block;
+  outline: none;
+  border-radius: 50px;
+  border: none;
+  background: #7f5283;
+}
+.simpleButtonPurpleFull:hover {
+  filter: opacity(0.5);
+}
+.simpleButtonPinkFull {
+  min-width: 130px;
+  height: 40px;
+  color: #fff;
+  padding: 5px 10px;
+  font-weight: bold;
+  cursor: pointer;
+  transition: all 0.3s ease;
+  position: relative;
+  display: inline-block;
+  outline: none;
+  border-radius: 50px;
+  border: none;
+  background: #ff8fb1;
+}
+.simpleButtonPinkFull:hover {
+  filter: opacity(0.5);
+}
+.simpleButtonLightBlueFull {
+  min-width: 130px;
+  height: 40px;
+  color: #fff;
+  padding: 5px 10px;
+  font-weight: bold;
+  cursor: pointer;
+  transition: all 0.3s ease;
+  position: relative;
+  display: inline-block;
+  outline: none;
+  border-radius: 50px;
+  border: none;
+  background: #31e1f7;
+}
+.simpleButtonLightBlueFull:hover {
+  filter: opacity(0.5);
+}
+.simpleButtonBlackFull {
+  min-width: 130px;
+  height: 40px;
+  color: #fff;
+  padding: 5px 10px;
+  font-weight: bold;
+  cursor: pointer;
+  transition: all 0.3s ease;
+  position: relative;
+  display: inline-block;
+  outline: none;
+  border-radius: 50px;
+  border: none;
+  background: #100f0f;
+}
+.simpleButtonBlackFull:hover {
+  filter: opacity(0.5);
+}
+.simpleButtonGrayFull {
+  min-width: 130px;
+  height: 40px;
+  color: #fff;
+  padding: 5px 10px;
+  font-weight: bold;
+  cursor: pointer;
+  transition: all 0.3s ease;
+  position: relative;
+  display: inline-block;
+  outline: none;
+  border-radius: 50px;
+  border: none;
+  background: #354259;
+}
+.simpleButtonGrayFull:hover {
+  filter: opacity(0.5);
+}
+.simpleButtonOrangeFull {
+  min-width: 130px;
+  height: 40px;
+  color: #fff;
+  padding: 5px 10px;
+  font-weight: bold;
+  cursor: pointer;
+  transition: all 0.3s ease;
+  position: relative;
+  display: inline-block;
+  outline: none;
+  border-radius: 50px;
+  border: none;
+  background: #d68438;
+}
+.simpleButtonOrangeFull:hover {
+  filter: opacity(0.5);
+}
+.simpleButtonAquaFull {
+  min-width: 130px;
+  height: 40px;
+  color: #fff;
+  padding: 5px 10px;
+  font-weight: bold;
+  cursor: pointer;
+  transition: all 0.3s ease;
+  position: relative;
+  display: inline-block;
+  outline: none;
+  border-radius: 50px;
+  border: none;
+  background: #79f8bb;
+}
+.simpleButtonAquaFull:hover {
+  filter: opacity(0.5);
+}
+
+/*SOMBRAS*/
+.simpleButtonBlueShadow {
+  min-width: 130px;
+  height: 40px;
+  color: #fff;
+  padding: 5px 10px;
+  font-weight: bold;
+  cursor: pointer;
+  transition: all 0.3s ease;
+  position: relative;
+  display: inline-block;
+  outline: none;
+  box-shadow: 5px 5px 5px rgb(95, 94, 94);
+  border: none;
+  background: #0096ff;
+}
+.simpleButtonBlueShadow:hover {
+  filter: opacity(0.5);
+  box-shadow: 1px 1px 1px rgb(95, 94, 94);
+}
+.simpleButtonRedShadow {
+  min-width: 130px;
+  height: 40px;
+  color: #fff;
+  padding: 5px 10px;
+  font-weight: bold;
+  cursor: pointer;
+  transition: all 0.3s ease;
+  position: relative;
+  display: inline-block;
+  outline: none;
+  box-shadow: 5px 5px 5px rgb(95, 94, 94);
+  border: none;
+  background: #ff1e00;
+}
+.simpleButtonRedShadow:hover {
+  filter: opacity(0.5);
+  box-shadow: 1px 1px 1px rgb(95, 94, 94);
+}
+.simpleButtonGreenShadow {
+  min-width: 130px;
+  height: 40px;
+  color: #fff;
+  padding: 5px 10px;
+  font-weight: bold;
+  cursor: pointer;
+  transition: all 0.3s ease;
+  position: relative;
+  display: inline-block;
+  outline: none;
+  box-shadow: 5px 5px 5px rgb(95, 94, 94);
+  border: none;
+  background: #3ccf4e;
+}
+.simpleButtonGreenShadow:hover {
+  filter: opacity(0.5);
+  box-shadow: 1px 1px 1px rgb(95, 94, 94);
+}
+.simpleButtonYellowShadow {
+  min-width: 130px;
+  height: 40px;
+  color: #fff;
+  padding: 5px 10px;
+  font-weight: bold;
+  cursor: pointer;
+  transition: all 0.3s ease;
+  position: relative;
+  display: inline-block;
+  outline: none;
+  box-shadow: 5px 5px 5px rgb(95, 94, 94);
+  border: none;
+  background: #f2df3a;
+}
+.simpleButtonYellowShadow:hover {
+  filter: opacity(0.5);
+  box-shadow: 1px 1px 1px rgb(95, 94, 94);
+}
+.simpleButtonBrownShadow {
+  min-width: 130px;
+  height: 40px;
+  color: #fff;
+  padding: 5px 10px;
+  font-weight: bold;
+  cursor: pointer;
+  transition: all 0.3s ease;
+  position: relative;
+  display: inline-block;
+  outline: none;
+  box-shadow: 5px 5px 5px rgb(95, 94, 94);
+  border: none;
+  background: #61481c;
+}
+.simpleButtonBrownShadow:hover {
+  filter: opacity(0.5);
+  box-shadow: 1px 1px 1px rgb(95, 94, 94);
+}
+.simpleButtonPurpleShadow {
+  min-width: 130px;
+  height: 40px;
+  color: #fff;
+  padding: 5px 10px;
+  font-weight: bold;
+  cursor: pointer;
+  transition: all 0.3s ease;
+  position: relative;
+  display: inline-block;
+  outline: none;
+  box-shadow: 5px 5px 5px rgb(95, 94, 94);
+  border: none;
+  background: #7f5283;
+}
+.simpleButtonPurpleShadow:hover {
+  filter: opacity(0.5);
+  box-shadow: 1px 1px 1px rgb(95, 94, 94);
+}
+.simpleButtonPinkShadow {
+  min-width: 130px;
+  height: 40px;
+  color: #fff;
+  padding: 5px 10px;
+  font-weight: bold;
+  cursor: pointer;
+  transition: all 0.3s ease;
+  position: relative;
+  display: inline-block;
+  outline: none;
+  box-shadow: 5px 5px 5px rgb(95, 94, 94);
+  border: none;
+  background: #ff8fb1;
+}
+.simpleButtonPinkShadow:hover {
+  filter: opacity(0.5);
+  box-shadow: 1px 1px 1px rgb(95, 94, 94);
+}
+.simpleButtonLightBlueShadow {
+  min-width: 130px;
+  height: 40px;
+  color: #fff;
+  padding: 5px 10px;
+  font-weight: bold;
+  cursor: pointer;
+  transition: all 0.3s ease;
+  position: relative;
+  display: inline-block;
+  outline: none;
+  box-shadow: 5px 5px 5px rgb(95, 94, 94);
+  border: none;
+  background: #31e1f7;
+}
+.simpleButtonLightBlueShadow:hover {
+  filter: opacity(0.5);
+  box-shadow: 1px 1px 1px rgb(95, 94, 94);
+}
+.simpleButtonBlackShadow {
+  min-width: 130px;
+  height: 40px;
+  color: #fff;
+  padding: 5px 10px;
+  font-weight: bold;
+  cursor: pointer;
+  transition: all 0.3s ease;
+  position: relative;
+  display: inline-block;
+  outline: none;
+  box-shadow: 5px 5px 5px rgb(95, 94, 94);
+  border: none;
+  background: #100f0f;
+}
+.simpleButtonBlackShadow:hover {
+  filter: opacity(0.5);
+  box-shadow: 1px 1px 1px rgb(95, 94, 94);
+}
+.simpleButtonGrayShadow {
+  min-width: 130px;
+  height: 40px;
+  color: #fff;
+  padding: 5px 10px;
+  font-weight: bold;
+  cursor: pointer;
+  transition: all 0.3s ease;
+  position: relative;
+  display: inline-block;
+  outline: none;
+  box-shadow: 5px 5px 5px rgb(95, 94, 94);
+  border: none;
+  background: #354259;
+}
+.simpleButtonGrayShadow:hover {
+  filter: opacity(0.5);
+  box-shadow: 1px 1px 1px rgb(95, 94, 94);
+}
+.simpleButtonOrangeShadow {
+  min-width: 130px;
+  height: 40px;
+  color: #fff;
+  padding: 5px 10px;
+  font-weight: bold;
+  cursor: pointer;
+  transition: all 0.3s ease;
+  position: relative;
+  display: inline-block;
+  outline: none;
+  box-shadow: 5px 5px 5px rgb(95, 94, 94);
+  border: none;
+  background: #d68438;
+}
+.simpleButtonOrangeShadow:hover {
+  filter: opacity(0.5);
+  box-shadow: 1px 1px 1px rgb(95, 94, 94);
+}
+.simpleButtonAquaShadow {
+  min-width: 130px;
+  height: 40px;
+  color: #fff;
+  padding: 5px 10px;
+  font-weight: bold;
+  cursor: pointer;
+  transition: all 0.3s ease;
+  position: relative;
+  display: inline-block;
+  outline: none;
+  box-shadow: 5px 5px 5px rgb(95, 94, 94);
+  border: none;
+  background: #79f8bb;
+}
+.simpleButtonAquaShadow:hover {
+  filter: opacity(0.5);
+  box-shadow: 1px 1px 1px rgb(95, 94, 94);
+}
+
+/* GLASSMORPHING */
+
+.simpleButtonBlueGlass {
+  min-width: 130px;
+  height: 40px;
+  color: rgb(97, 97, 97);
+  padding: 5px 10px;
+  font-weight: bold;
+  cursor: pointer;
+  transition: all 0.3s ease;
+  position: relative;
+  display: inline-block;
+  outline: none;
+  box-shadow: 5px 5px 5px rgb(95, 94, 94);
+  border: none;
+  background: rgba(71, 71, 225, 0.25);
+  box-shadow: 0 8px 32px 0 rgba(31, 38, 135, 0.37);
+  backdrop-filter: blur(5px);
+  -webkit-backdrop-filter: blur(5px);
+  border-radius: 10px;
+  border: 1px solid rgba(255, 255, 255, 0.18);
+}
+.simpleButtonBlueGlass:hover {
+  filter: opacity(0.5);
+  box-shadow: 1px 1px 1px rgb(95, 94, 94);
+}
+.simpleButtonRedGlass {
+  min-width: 130px;
+  height: 40px;
+  color: rgb(97, 97, 97);
+  padding: 5px 10px;
+  font-weight: bold;
+  cursor: pointer;
+  transition: all 0.3s ease;
+  position: relative;
+  display: inline-block;
+  outline: none;
+  box-shadow: 5px 5px 5px rgb(95, 94, 94);
+  border: none;
+  background: rgba(172, 18, 0, 0.25);
+  box-shadow: 0 8px 32px 0 rgba(31, 38, 135, 0.37);
+  backdrop-filter: blur(5px);
+  -webkit-backdrop-filter: blur(5px);
+  border-radius: 10px;
+  border: 1px solid rgba(255, 255, 255, 0.18);
+}
+.simpleButtonRedGlass:hover {
+  filter: opacity(0.5);
+  box-shadow: 1px 1px 1px rgb(95, 94, 94);
+}
+.simpleButtonGreenGlass {
+  min-width: 130px;
+  height: 40px;
+  color: rgb(97, 97, 97);
+  padding: 5px 10px;
+  font-weight: bold;
+  cursor: pointer;
+  transition: all 0.3s ease;
+  position: relative;
+  display: inline-block;
+  outline: none;
+  box-shadow: 5px 5px 5px rgb(95, 94, 94);
+  border: none;
+  background: rgba(0, 255, 33, 0.25);
+  box-shadow: 0 8px 32px 0 rgba(31, 38, 135, 0.37);
+  backdrop-filter: blur(5px);
+  -webkit-backdrop-filter: blur(5px);
+  border-radius: 10px;
+  border: 1px solid rgba(255, 255, 255, 0.18);
+}
+.simpleButtonGreenGlass:hover {
+  filter: opacity(0.5);
+  box-shadow: 1px 1px 1px rgb(95, 94, 94);
+}
+.simpleButtonYellowGlass {
+  min-width: 130px;
+  height: 40px;
+  color: rgb(97, 97, 97);
+  padding: 5px 10px;
+  font-weight: bold;
+  cursor: pointer;
+  transition: all 0.3s ease;
+  position: relative;
+  display: inline-block;
+  outline: none;
+  box-shadow: 5px 5px 5px rgb(95, 94, 94);
+  border: none;
+  background: rgba(236, 255, 0, 0.25);
+  box-shadow: 0 8px 32px 0 rgba(31, 38, 135, 0.37);
+  backdrop-filter: blur(5px);
+  -webkit-backdrop-filter: blur(5px);
+  border-radius: 10px;
+  border: 1px solid rgba(255, 255, 255, 0.18);
+}
+.simpleButtonYellowGlass:hover {
+  filter: opacity(0.5);
+  box-shadow: 1px 1px 1px rgb(95, 94, 94);
+}
+.simpleButtonBrownGlass {
+  min-width: 130px;
+  height: 40px;
+  color: rgb(97, 97, 97);
+  padding: 5px 10px;
+  font-weight: bold;
+  cursor: pointer;
+  transition: all 0.3s ease;
+  position: relative;
+  display: inline-block;
+  outline: none;
+  box-shadow: 5px 5px 5px rgb(95, 94, 94);
+  border: none;
+  background: rgba(155, 69, 0, 0.25);
+  box-shadow: 0 8px 32px 0 rgba(31, 38, 135, 0.37);
+  backdrop-filter: blur(5px);
+  -webkit-backdrop-filter: blur(5px);
+  border-radius: 10px;
+  border: 1px solid rgba(255, 255, 255, 0.18);
+}
+.simpleButtonBrownGlass:hover {
+  filter: opacity(0.5);
+  box-shadow: 1px 1px 1px rgb(95, 94, 94);
+}
+.simpleButtonPurpleGlass {
+  min-width: 130px;
+  height: 40px;
+  color: rgb(97, 97, 97);
+  padding: 5px 10px;
+  font-weight: bold;
+  cursor: pointer;
+  transition: all 0.3s ease;
+  position: relative;
+  display: inline-block;
+  outline: none;
+  box-shadow: 5px 5px 5px rgb(95, 94, 94);
+  border: none;
+  background: rgba(255, 0, 219, 0.25);
+  box-shadow: 0 8px 32px 0 rgba(31, 38, 135, 0.37);
+  backdrop-filter: blur(5px);
+  -webkit-backdrop-filter: blur(5px);
+  border-radius: 10px;
+  border: 1px solid rgba(255, 255, 255, 0.18);
+}
+.simpleButtonPurpleGlass:hover {
+  filter: opacity(0.5);
+  box-shadow: 1px 1px 1px rgb(95, 94, 94);
+}
+.simpleButtonPinkGlass {
+  min-width: 130px;
+  height: 40px;
+  color: rgb(97, 97, 97);
+  padding: 5px 10px;
+  font-weight: bold;
+  cursor: pointer;
+  transition: all 0.3s ease;
+  position: relative;
+  display: inline-block;
+  outline: none;
+  box-shadow: 5px 5px 5px rgb(95, 94, 94);
+  border: none;
+  background: rgba(255, 170, 244, 0.25);
+  box-shadow: 0 8px 32px 0 rgba(31, 38, 135, 0.37);
+  backdrop-filter: blur(5px);
+  -webkit-backdrop-filter: blur(5px);
+  border-radius: 10px;
+  border: 1px solid rgba(255, 255, 255, 0.18);
+}
+.simpleButtonPinkGlass:hover {
+  filter: opacity(0.5);
+  box-shadow: 1px 1px 1px rgb(95, 94, 94);
+}
+.simpleButtonLightBlueGlass {
+  min-width: 130px;
+  height: 40px;
+  color: rgb(97, 97, 97);
+  padding: 5px 10px;
+  font-weight: bold;
+  cursor: pointer;
+  transition: all 0.3s ease;
+  position: relative;
+  display: inline-block;
+  outline: none;
+  box-shadow: 5px 5px 5px rgb(95, 94, 94);
+  border: none;
+  background: rgba(0, 240, 255, 0.25);
+  box-shadow: 0 8px 32px 0 rgba(31, 38, 135, 0.37);
+  backdrop-filter: blur(5px);
+  -webkit-backdrop-filter: blur(5px);
+  border-radius: 10px;
+  border: 1px solid rgba(255, 255, 255, 0.18);
+}
+.simpleButtonLightBlueGlass:hover {
+  filter: opacity(0.5);
+  box-shadow: 1px 1px 1px rgb(95, 94, 94);
+}
+.simpleButtonBlackGlass {
+  min-width: 130px;
+  height: 40px;
+  color: rgb(97, 97, 97);
+  padding: 5px 10px;
+  font-weight: bold;
+  cursor: pointer;
+  transition: all 0.3s ease;
+  position: relative;
+  display: inline-block;
+  outline: none;
+  box-shadow: 5px 5px 5px rgb(95, 94, 94);
+  border: none;
+  background: rgba(0, 0, 0, 0.25);
+  box-shadow: 0 8px 32px 0 rgba(31, 38, 135, 0.37);
+  backdrop-filter: blur(5px);
+  -webkit-backdrop-filter: blur(5px);
+  border-radius: 10px;
+  border: 1px solid rgba(255, 255, 255, 0.18);
+}
+.simpleButtonBlackGlass:hover {
+  filter: opacity(0.5);
+  box-shadow: 1px 1px 1px rgb(95, 94, 94);
+}
+.simpleButtonGrayGlass {
+  min-width: 130px;
+  height: 40px;
+  color: rgb(97, 97, 97);
+  padding: 5px 10px;
+  font-weight: bold;
+  cursor: pointer;
+  transition: all 0.3s ease;
+  position: relative;
+  display: inline-block;
+  outline: none;
+  box-shadow: 5px 5px 5px rgb(95, 94, 94);
+  border: none;
+  background: rgba(183, 183, 183, 0.25);
+  box-shadow: 0 8px 32px 0 rgba(31, 38, 135, 0.37);
+  backdrop-filter: blur(5px);
+  -webkit-backdrop-filter: blur(5px);
+  border-radius: 10px;
+  border: 1px solid rgba(255, 255, 255, 0.18);
+}
+.simpleButtonGrayGlass:hover {
+  filter: opacity(0.5);
+  box-shadow: 1px 1px 1px rgb(95, 94, 94);
+}
+.simpleButtonOrangeGlass {
+  min-width: 130px;
+  height: 40px;
+  color: rgb(97, 97, 97);
+  padding: 5px 10px;
+  font-weight: bold;
+  cursor: pointer;
+  transition: all 0.3s ease;
+  position: relative;
+  display: inline-block;
+  outline: none;
+  box-shadow: 5px 5px 5px rgb(95, 94, 94);
+  border: none;
+  background: rgba(255, 176, 0, 0.25);
+  box-shadow: 0 8px 32px 0 rgba(31, 38, 135, 0.37);
+  backdrop-filter: blur(5px);
+  -webkit-backdrop-filter: blur(5px);
+  border-radius: 10px;
+  border: 1px solid rgba(255, 255, 255, 0.18);
+}
+.simpleButtonOrangeGlass:hover {
+  filter: opacity(0.5);
+  box-shadow: 1px 1px 1px rgb(95, 94, 94);
+}
+.simpleButtonAquaGlass {
+  min-width: 130px;
+  height: 40px;
+  color: rgb(97, 97, 97);
+  padding: 5px 10px;
+  font-weight: bold;
+  cursor: pointer;
+  transition: all 0.3s ease;
+  position: relative;
+  display: inline-block;
+  outline: none;
+  box-shadow: 5px 5px 5px rgb(95, 94, 94);
+  border: none;
+  background: rgba(0, 255, 190, 0.25);
+  box-shadow: 0 8px 32px 0 rgba(31, 38, 135, 0.37);
+  backdrop-filter: blur(5px);
+  -webkit-backdrop-filter: blur(5px);
+  border-radius: 10px;
+  border: 1px solid rgba(255, 255, 255, 0.18);
+}
+.simpleButtonAquaGlass:hover {
+  filter: opacity(0.5);
+  box-shadow: 1px 1px 1px rgb(95, 94, 94);
+}
+
+
